@@ -1,0 +1,1 @@
+# for_Atlas_43_digital_clock_widget
